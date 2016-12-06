@@ -6,4 +6,4 @@ A novel and concise algorithm for MS data peak detection and especially peak qua
  
   ![image](https://github.com/George-wu509/Wavelet-MS-quantificatio-method/blob/master/readme_figures/cover2.jpeg)
   
-   ![image](https://github.com/George-wu509/Wavelet-MS-quantificatio-method/blob/master/readme_figures/cover3.jpeg)
+   ![image](https://github.com/George-wu509/Wavelet-MS-quantificatio-method/blob/master/readme_figures/result1.jpeg)
